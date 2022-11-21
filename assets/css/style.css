@@ -1,5 +1,5 @@
 .box{
-    background-image: url(/assets/image/img_tree.png);   
+    background-image: url("../image/img_tree.png");   
     background-color: slateblue;
     background-repeat: no-repeat;
     background-position: right;
