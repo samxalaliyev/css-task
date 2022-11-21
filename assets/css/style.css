@@ -1,0 +1,19 @@
+.box{
+    background-image: url(/assets/image/img_tree.png);   
+    background-color: slateblue;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 80px;
+    background-position-x: 555px;
+    width: 800px;
+    height: 500px;
+    border: 4px solid mediumpurple;
+    border-radius: 85px 25px 85px 25px;
+}
+h1{
+    text-align: center;
+    
+}
+p{
+    margin-left: 15px;
+}
